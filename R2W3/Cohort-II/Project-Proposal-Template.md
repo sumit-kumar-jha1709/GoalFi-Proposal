@@ -129,9 +129,9 @@ https://miro.com/app/board/uXjVN3Oco8o=/?share_link_id=700296085921
 
 ### Teammates
 
-- Anjali Singla ([GitHub Profile]())
+- Anjali Singla ([GitHub Profile](https://github.com/angie3019))
 - Yash Gaur ([GitHub Profile]())
-- Sumit Kumar Jha ([GitHub Profile]()) 
+- Sumit Kumar Jha ([GitHub Profile](https://github.com/sumit-kumar-jha1709)) 
 
 
 ### Individual Contribution Breakdown
