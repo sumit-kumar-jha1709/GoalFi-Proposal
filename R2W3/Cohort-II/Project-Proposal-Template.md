@@ -3,132 +3,151 @@
 
 ### Project Title
 
-Provide the title of your project.
-
-**_Sample:_** _CryptoTracker_
+GoalFi : Achieving Dreams One Block at a Time
 
 ### Project abstract
 
-Provide a brief overview of your project here.
+A Dapp that utilizes blockchain technology to help users set, track, and achieve their goals. Our goal is to leverage blockchain technology to create a decentralized, transparent, and incentivized goal-setting platform that encourages users to achieve their objectives.
 
-**_Sample:_**
-_We're building CryptoTracker, a decentralized platform to track and manage cryptocurrency portfolios._
 
 ### Project breakdown
 
-Provide a comprehensive explanation of your project. This should include a detailed description of what your project is all about, its main objectives, and its intended impact or benefits. Also, describe how your project works. This can include an overview of the processes or mechanisms involved, the technologies or methods used, and how these contribute to achieving the project's goals.
+ *Here's a comprehensive explanation of the GoalFi project, incorporating its objectives, impact, and functionality:*
 
-**_Sample:_**
+***Project Overview:***
 
-_CryptoTracker is a state-of-the-art, highly secure, and user-oriented application designed specifically for cryptocurrency enthusiasts and investors. It has been meticulously crafted to provide an efficient and simplified platform for managing digital assets._
+**GoalFi is a decentralized goal-setting app that harnesses blockchain technology to empower individuals to achieve their goals through accountability, rewards, and community support.**
 
-_Upon logging into the CryptoTracker system, users are greeted with a clean, intuitive interface that allows for effortless navigation. Here, users can smoothly add, monitor, and organize their diverse range of cryptocurrency holdings. The application supports a wide spectrum of cryptocurrencies, ensuring that users can manage all their assets in a single, consolidated space._
+**Key Objectives:**
 
-_Beyond simple asset management, CryptoTracker also serves as a hub for real-time market data. This feature acts as a window into the pulse of the cryptocurrency market, giving users access to the latest price movements, trends, and fluctuations of various cryptocurrencies. This invaluable information is presented in an easy-to-understand format, providing users with crucial insights without overwhelming them with complex data._
+- **Enhance goal achievement:** Foster consistent goal-oriented behavior through decentralized accountability and NFT-based incentives.
+- **Promote personal growth:** Provide a platform for individuals to set and track goals, fostering self-improvement and skill development.
+- **Explore decentralized technology:** Demonstrate the potential of blockchain and NFTs to enhance personal growth and goal-setting experiences.
 
-_In addition to real-time market data, CryptoTracker is equipped with a comprehensive portfolio analysis toolkit. This suite of tools enables users to track the performance of their portfolio over various time frames, from daily changes to long-term trends. By visualizing their portfolio data, users can gain a deeper understanding of their investment strategy's effectiveness, identify potential areas for improvement, and make more informed, data-driven decisions._
+**Intended Impact and Benefits:**
 
-_CryptoTracker's portfolio analysis features also allow for a more granular view of each user's investments. Users can examine the performance of individual assets, compare them against different market indices, and assess their contribution to the overall portfolio. These in-depth analytical capabilities can help users fine-tune their investment strategies, optimize their asset allocation, and maximize the potential returns on their portfolio._
+- **Increased goal success rates:** Encourage individuals to follow through on their commitments and achieve their goals.
+- **Enhanced personal growth and development:** Empower individuals to learn new skills, adopt healthy habits, and pursue their aspirations.
+- **Demonstrated the innovative use of blockchain technology:** Showcase the potential of decentralized solutions to address challenges in personal development and goal attainment.
 
-_CryptoTracker is not just a tool, but a comprehensive platform that combines effective asset management, real-time market insights, and in-depth portfolio analysis. It's designed to empower cryptocurrency investors, enabling them to take full control over their digital assets and make well-informed investment decisions._
+**How it Works:**
+
+1. **Wallet Connection:** Users connect their crypto wallets to securely interact with the app's features.
+2. **Goal Creation:** Users create personalized goals with specific details:
+   - Name (e.g., "Learning React")
+   - Time commitment (e.g., 3pm to 5pm daily)
+   - Start Date
+   - Deadline
+3. **Daily Accountability:** A streak counter tracks daily progress, promoting consistent effort.
+4. **NFT Rewards:** Users who successfully complete goals within the specified timeframe receive unique NFTs as incentives and recognition.
+
+**Key Features:**
+
+- Decentralized goal tracking and accountability
+- NFT-based rewards for goal completion
+- Secure and transparent data storage on IPFS
+- User-friendly interface for goal creation and management
+
+
 
 ### Technology Stack
 
-Please enumerate the technologies, tools, and frameworks that you're planning to utilize in the development and implementation of your project. This should include both the front-end and back-end technologies, databases, cloud services, libraries, and other relevant software components.
+- Blockchain Platform: _Ethereum_
+- Smart Contract Language: _Solidity_
+- Frontend: _React_
+- Backend: _Solidity_
+- Database: _IPFS for decentralized storage_
 
-**_Sample:_**
-
-- _Solidity_
-- _React.js_
-- _Express.js_
-- _Node.js_
 
 ### Work Flow Diagram
 
-Attach a visual representation of your project's workflow. This helps understand the overall structure.
+Below is the Miru link of GoalFi's Work Flow Diagram.
 
-[Insert Image/Link to Work Flow Diagram]
+https://miro.com/app/board/uXjVN3Oco8o=/?share_link_id=700296085921
+
+
 
 ### Application Workflow Storyboard
 
-[Insert Image/Link to Storyboard]
+**1. Connecting your Crypto Wallet:**
 
-Elaborate on how the various components within your application will interact with each other. This includes detailing how data flows between sections, how the components communicate, and how they depend on each other.
+- Securely link your crypto wallet to seamlessly interact with GoalFi's features.
 
-**_Sample:_**
+**2. Crafting Your Roadmap to Success:**
 
-**_User Registration_**
+- **Define your aspirations:** Give your goal a name that sparks your motivation.
+- **Chart your course:** Specify the dedicated time each day you'll invest in your pursuit.
+- **Mark your starting point:** Set the date your journey begins.
+- **Set your sights on the horizon:** Establish the deadline by which you aim to achieve your objective.
 
-1. _User enters registration details._
-2. _Smart contract verifies and records user data._
+**3. Embracing Daily Accountability:**
 
-**_Portfolio Management_**
+- A visual streak counter keeps you on track, reminding you of the progress you've made and motivating you to stay consistent.
 
-1. _User adds a new cryptocurrency._
-2. _Backend updates user's portfolio data._
-3. _Frontend dynamically reflects the changes._
+**4. Claiming Your NFT Reward:**
 
-**_Real-time Market Data_**
+- Persist in your dedication, and if you conquer your goal within the timeframe you set, a unique NFT awaits! This digital badge not only signifies your accomplishment but also serves as a valuable testament to your perseverance.
 
-1. _User requests real-time market data._
-2. _Frontend triggers a request to external APIs._
-3. _Display updated market information._
-
-**_Transaction Execution_**
-
-1. _User initiates a buy/sell transaction._
-2. _Smart contract executes the transaction securely._
 
 **_Touchpoints_**
 
-- _Frontend communicates with backend via REST APIs._
-- _Smart contracts manage user data securely._
+**Here are some key touchpoints for the GoalFi app:**
 
-_[Add any additional touchpoints and interactions as relevant]_
+- **Wallet Interaction:** App seamlessly interacts with the user's crypto wallet, enabling secure transactions and ownership of NFT rewards.
+- **Smart Contract Execution:** App leverages Solidity smart contracts to automate NFT distribution, ensure accountability, and maintain data integrity.
+- **IPFS Storage:** App stores user data securely and transparently on the decentralized IPFS network, prioritizing privacy and control.
+- **React Interface:** App provides an intuitive and user-friendly experience for goal setting, tracking, and community engagement.
+- **NFT Delivery:** App automatically transfers the earned NFT to the user's wallet upon goal completion, reinforcing positive reinforcement.
+- **Progress Insights:** App generates visual data showcasing user's progress over time, promoting self-reflection and motivation.
+
+
 
 ### Milestone Breakdown
 
-Outline the key milestones for your project and the associated timelines.
+**Day 1-2: Project Kick-off and Ideation**
 
-**_Sample_:**
+* **Project Vision:** Define overall vision, mission, and core values of GoalFi.
+* **User Persona Development:** Identify target users and understand their needs.
+* **Feature Prioritization:** Prioritize essential features for the initial MVP.
 
-1. **_Project Kick-off (Days 1-2)_:** _Team formation and project ideation_.
-2. **_Design Phase (Days 3-4)_:** _Create wireframes and finalize design concepts_.
-3. **_Development Sprint (Days 5-6)_:** _Implement core functionalities (e.g., user registration, portfolio management)_.
+**Day 3-4: Design and Prototyping**
 
----
+* **Wireframing:** Sketch out key user flows and app screens.
+* **UI/UX Design:** Design mockups for a user-friendly and intuitive interface.
+* **Smart Contract Design:** Define the logic and structure of smart contracts for goal creation, tracking, and rewards.
+
+**Day 5-6: Development and Deployment**
+
+* **Frontend Development:** Begin building the frontend interface using React.
+* **Smart Contract Development:** Implement core smart contract functionalities on Ethereum.
+* **Internal Testing:** Conduct rigorous internal testing of all functionalities.
+* **Database Development:** Integrate IPFS for decentralized storage and configure data models for user information and goals.
+* **MVP Deployment:** Deploy the minimum viable product (MVP) on a testnet for initial user feedback.
+
 
 # Team Details section
 
 ### Teammates
 
-Please ensure to add the names of each member of your team along with their respective GitHub profiles to this list.
+- Anjali Singla ([GitHub Profile]())
+- Yash Gaur ([GitHub Profile]())
+- Sumit Kumar Jha ([GitHub Profile]()) 
 
-**_Sample:_**
-
-- Alice Johnson ([GitHub Profile](https://github.com/alicejohnson))
-- Bob Smith ([GitHub Profile](https://github.com/bobsmith))
-- Charlie Brown ([GitHub Profile](https://github.com/charliebrown))
 
 ### Individual Contribution Breakdown
 
-Please ensure to clearly define the responsibilities and tasks of each team member. This includes detailing their specific role within the project, outlining their duties, and setting clear expectations for their contribution.
+- Anjali Singla: _Database and Solidity Contract Development_
+- Yash Gaur: _Wallet Connection and Solidity Contract Development_
+- Sumit Kumar Jha: _Frontend Design and Implementaion_
 
-**_Sample:_**
+### Future Prospects and Conclusion
 
-- _Alice Johnson: Smart Contract Development_
-- _Bob Smith: Frontend Design and Implementation_
-- _Charlie Brown: Backend Development_
 
----
+GoalFi's innovative fusion of blockchain technology and personal development holds immense potential for advancements that further empower individuals to achieve their aspirations. Here's a glimpse into its future prospects:
 
-# Future Prospects and Conclusion
+- **Blockchain Notifications:** Unleash the potential of decentralized notifications to create a more secure, private, and censorship-resistant communication channel between GoalFi and its users. This could involve leveraging blockchain-based messaging protocols or decentralized push notification services.
 
-**Answer the following questions regarding the future prospects and scaling of your project.**
+- **AI-Powered Verification:** Integrate AI capabilities to objectively verify whether users have fulfilled their daily goals. This could involve techniques such as image recognition, natural language processing, or data analysis, ensuring accountability and enhancing the credibility of earned rewards.
 
-1. What are the potential future features or enhancements you envision for your project?
-   - **_Sample_**: _We plan to integrate a real-time news feed for cryptocurrencies_.
-2. How do you plan to scale the project if there's an increase in user activity or data volume?
-   - **_Sample_**: _We'll implement load balancing and optimize database queries_.
-3. Provide a concise one-line summary of your proposal and its objectives.
-   - **_Sample_**: _Our project, CryptoTracker, aims to revolutionize cryptocurrency management with a decentralized platform for secure asset tracking and real-time market analysis._
+- **Decentralized Identity:** Embrace decentralized identity solutions, like DIDs, to empower users to control their own data and privacy. This would enable seamless authentication without relying on centralized entities, fostering greater trust and autonomy within the GoalFi ecosystem.
+
