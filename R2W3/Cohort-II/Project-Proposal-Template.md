@@ -130,7 +130,7 @@ https://miro.com/app/board/uXjVN3Oco8o=/?share_link_id=700296085921
 ### Teammates
 
 - Anjali Singla ([GitHub Profile](https://github.com/angie3019))
-- Yash Gaur ([GitHub Profile]())
+- Yash Gaur ([GitHub Profile](https://github.com/YashGaur000))
 - Sumit Kumar Jha ([GitHub Profile](https://github.com/sumit-kumar-jha1709)) 
 
 
